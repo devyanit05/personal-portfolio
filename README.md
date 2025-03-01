@@ -1,4 +1,4 @@
-# Devyani Tookl's Portfolio
+# Devyani Thokal's Portfolio
 
 This repository contains the source code for my personal portfolio website. It showcases my skills, projects, experience, certifications, and contact information.
 
