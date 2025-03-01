@@ -7,8 +7,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-content">
         {" "}
-        {/* Added a wrapper div */}
-        <p>© {currentYear} Devyani Tookl. All Rights Reserved.</p>
+        <p>© {currentYear} Devyani Thokal. All Rights Reserved.</p>
         <div className="social-media-icons">
           <a
             href="https://github.com/devyanit05"

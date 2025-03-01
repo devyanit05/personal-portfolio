@@ -7,17 +7,25 @@
     "link": "https://ieeexplore.ieee.org/document/10346449"
   },
   {
-    "title": "Offside Detection",
-    "description": "sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc.",
-    "technologies": "Computer Vision, Python, AI",
-    "category": "Data Science",
-    "link": "https://ieeexplore.ieee.org/document/10346449"
+    "title": "Projecto - Website for managing and showcasing projects",
+    "description": "Developed using the MERN stack, this website enables college students to upload their projects for industrialists to view and collaborate on. Presented this in Smart India Hackathon 2022",
+    "technologies": "React JS, Node JS, Express Js, MongoDB, Python",
+    "category": "Web Development",
+    "link": " "
   },
   {
-    "title": "Offside Detection",
-    "description": "sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc.",
-    "technologies": "Electronics Section",
-    "category": "Electronics",
-    "link":"https://ieeexplore.ieee.org/document/10346449"
+    "title": "Process Scheduling and Synchronization",
+    "description": "Code to Demonstrate Processes Scheduling and Synchronization Algorithms in Operating System Using C programming language, demonstrated algorithms like First Come - First Serve, Round Robbin, Shortest Job first, etc",
+    "technologies": "C Programming, JavaScript",
+    "category": "Web Development",
+    "link": " "
+  },
+  {
+    "title": "Agro Mitra",
+    "description": "Data Science based algorithm that predicts which crop suits most to your soil based on the NPK values. The scikit-Learn framework from python is used to create a program and a standard globally available data was used for training the model in this project",
+    "technologies": "scikit-Learn, Python",
+    "category": "Data Science",
+    "link": " "
   }
+  
 ]

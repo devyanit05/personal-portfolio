@@ -1,37 +1,21 @@
-[
+[ 
   {
-    "jobTitle": "Senior DevOps Engineer",
-    "companyName": "Tech Innovations Inc.",
-    "location": "San Francisco, CA",
-    "duration": "January 2022 - Present",
-    "techStack": "AWS, Kubernetes, Terraform, Jenkins, Python, Docker",
+    "jobTitle": "Associate Quality Assurance Analyst",
+    "companyName": "Wolters Kluwer, India",
+    "location": "Pune, India",
+    "duration": "July 2024 - Current",
+    "techStack": "AWS, Docker, Ansible, Git",
     "responsibilities": [
-      "Designed and implemented automated CI/CD pipelines using Kubernetes and Jenkins, reducing deployment time by 40%.",
-      "Developed and maintained infrastructure as code using Terraform, ensuring consistent and reproducible environments.",
-      "Implemented monitoring and logging solutions using Prometheus and Grafana, improving system observability.",
-      "Collaborated with development teams to optimize application deployments and improve system reliability.",
-      "Automated cloud infrastructure provisioning and scaling on AWS, reducing operational costs by 25%."
+      "Working as a QA Engineer for Regulatory Reporting Engine.",
+      "Contribute to delivering high-quality software solutions by ensuring robust testing processes and optimizing workflows.",
+      "With a strong foundation in test automation, and agile methodologies, I am focused on enabling seamless and efficient product delivery."
     ]
   },
   {
-    "jobTitle": "DevOps Engineer",
-    "companyName": "Cloud Solutions Ltd.",
-    "location": "New York, NY",
-    "duration": "June 2020 - December 2021",
-    "techStack": "AWS, Docker, Ansible, Git, Bash",
-    "responsibilities": [
-      "Managed and automated deployments to AWS environments using Docker and Ansible.",
-      "Developed and maintained build and deployment scripts using Bash and Git.",
-      "Implemented monitoring solutions to ensure system uptime and performance.",
-      "Collaborated with development teams to troubleshoot and resolve production issues.",
-      "Contributed to the improvement of deployment processes and best practices."
-    ]
-  },
-  {
-    "jobTitle": "Systems Administrator",
-    "companyName": "Data Systems Corp.",
-    "location": "Chicago, IL",
-    "duration": "January 2018 - May 2020",
+    "jobTitle": "Associate Product Software Engineer Intern",
+    "companyName": "Wolters Kluwer, India",
+    "location": "Pune, Inida",
+    "duration": "June 2023 - June 2024",
     "techStack": "Linux, Shell Scripting, Networking, Virtualization",
     "responsibilities": [
       "Managed and maintained Linux servers and infrastructure.",
@@ -39,6 +23,20 @@
       "Configured and maintained network devices and services.",
       "Implemented and managed virtualized environments.",
       "Provided technical support and troubleshooting for system issues."
+    ]
+  },
+  {
+    "jobTitle": "Full Stack Developer (MERN Stack)",
+    "companyName": "AnsrCoach",
+    "location": "Remote Job",
+    "duration": "Dec 2022 - May 2023",
+    "techStack": "JavaScript, React, Networking, Virtualization",
+    "responsibilities": [
+      "Created a frontend using React JS framework, with Admin & User login, where firm admin will upload educational content and user can access using their login credentials.",
+      "User were allowed to access the content based on their subscriptions and validity.",
+      "Configured and maintained network devices and services.",
+      "Integrated the application with Payment Gateway.",
+      "Deployment using Heroku."
     ]
   }
 ]
