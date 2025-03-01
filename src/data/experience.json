@@ -1,0 +1,44 @@
+[
+  {
+    "jobTitle": "Senior DevOps Engineer",
+    "companyName": "Tech Innovations Inc.",
+    "location": "San Francisco, CA",
+    "duration": "January 2022 - Present",
+    "techStack": "AWS, Kubernetes, Terraform, Jenkins, Python, Docker",
+    "responsibilities": [
+      "Designed and implemented automated CI/CD pipelines using Kubernetes and Jenkins, reducing deployment time by 40%.",
+      "Developed and maintained infrastructure as code using Terraform, ensuring consistent and reproducible environments.",
+      "Implemented monitoring and logging solutions using Prometheus and Grafana, improving system observability.",
+      "Collaborated with development teams to optimize application deployments and improve system reliability.",
+      "Automated cloud infrastructure provisioning and scaling on AWS, reducing operational costs by 25%."
+    ]
+  },
+  {
+    "jobTitle": "DevOps Engineer",
+    "companyName": "Cloud Solutions Ltd.",
+    "location": "New York, NY",
+    "duration": "June 2020 - December 2021",
+    "techStack": "AWS, Docker, Ansible, Git, Bash",
+    "responsibilities": [
+      "Managed and automated deployments to AWS environments using Docker and Ansible.",
+      "Developed and maintained build and deployment scripts using Bash and Git.",
+      "Implemented monitoring solutions to ensure system uptime and performance.",
+      "Collaborated with development teams to troubleshoot and resolve production issues.",
+      "Contributed to the improvement of deployment processes and best practices."
+    ]
+  },
+  {
+    "jobTitle": "Systems Administrator",
+    "companyName": "Data Systems Corp.",
+    "location": "Chicago, IL",
+    "duration": "January 2018 - May 2020",
+    "techStack": "Linux, Shell Scripting, Networking, Virtualization",
+    "responsibilities": [
+      "Managed and maintained Linux servers and infrastructure.",
+      "Automated system administration tasks using shell scripting.",
+      "Configured and maintained network devices and services.",
+      "Implemented and managed virtualized environments.",
+      "Provided technical support and troubleshooting for system issues."
+    ]
+  }
+]
