@@ -6,11 +6,9 @@
     "duration": "July 2024 - Present",
     "techStack": "AWS, Kubernetes, Jenkins, Python, Docker Compose",
     "responsibilities": [
-      "Designed and implemented automated CI/CD pipelines using Kubernetes and Jenkins.",
-      "Developed and maintained infrastructure as code using Terraform, ensuring consistent and reproducible environments.",
-      "Implemented monitoring and logging solutions using Prometheus and Grafana, improving system observability.",
+      "Work with Docker Compose to manage multi-container applications, ensuring efficient development and deployment workflows.",
       "Collaborated with development teams to optimize application deployments and improve system reliability.",
-      "Automated cloud infrastructure provisioning and scaling on AWS, reducing operational costs by 25%."
+      "Automated cloud infrastructure provisioning and scaling on AWS."
     ]
   },
   {
