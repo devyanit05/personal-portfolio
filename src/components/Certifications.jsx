@@ -1,18 +1,23 @@
 import React from "react";
 import certificationsData from "../data/certifications.json";
-import pagerdutyImage from "../assets/images/pagerduty.png";
-import dockerImage from "../assets/images/docker.png";
-import cucumberImage from "../assets/images/cucumber.png"
-import typescriptImage from "../assets/images/typescript.png";
+import DevOpsImage from "../assets/images/devops_png.png";
+import DockerImage from "../assets/images/docker_png.png";
+import CucumberImage from "../assets/images/cucumber_png.png"
+import TypescriptImage from "../assets/images/typescript_png.png";
+import GitHubImage from "../assets/images/github_png.png";
+import AwsImage from "../assets/images/aws_png.png";
+import UdemyImage from "../assets/images/udemy_png.png";
 
 function Certifications() {
 
   const imageImports = {
-    "pagerduty.png": pagerdutyImage,
-    "docker.png": dockerImage,
-    "cucumber.png": cucumberImage,
-    "typescript.png": typescriptImage
-    // "aws-certified.png": awsCertified,
+    "devops_png.png": DevOpsImage,
+    "docker_png.png": DockerImage,
+    "cucumber_png.png": CucumberImage,
+    "typescript_png.png": TypescriptImage,
+    "aws_png.png": AwsImage,
+    "github_png.png": GitHubImage,
+    "udemy_png.png": UdemyImage,
     // "kubernetes-certified.png": kubernetesCertified,
     // Add all your image imports here...
   };

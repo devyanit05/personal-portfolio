@@ -4,7 +4,7 @@
     "companyName": "Wolters Kluwer",
     "location": "Pune, India",
     "duration": "July 2024 - Present",
-    "techStack": "AWS, Kubernetes, Jenkins, Python, Docker COmpose",
+    "techStack": "AWS, Kubernetes, Jenkins, Python, Docker Compose",
     "responsibilities": [
       "Designed and implemented automated CI/CD pipelines using Kubernetes and Jenkins.",
       "Developed and maintained infrastructure as code using Terraform, ensuring consistent and reproducible environments.",
