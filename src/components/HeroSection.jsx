@@ -19,6 +19,7 @@ function HeroSection() {
           href="https://www.linkedin.com/in/devyani-thokal/"
           class="cta"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Connect on LinkedIn
         </a>
