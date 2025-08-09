@@ -1,34 +1,34 @@
 [
-  
   {
     "name": "DevOps Professional Certificate",
-    "image": "pagerduty.png",
+    "image": "devops.jpg",
     "link": "https://www.linkedin.com/learning/certificates/f85fd16a64b7ddd587e5e81fe02625caee2ac36c7063a08ea73d027462242e6e?trk=share_certificate"
   },
   {
     "name": "Docker Foundations Proffessional Certificate",
-    "image": "docker.png",
+    "image": "docker_img.png",
     "link": "https://www.linkedin.com/learning/certificates/a5a4ce7a0f0831015dce1ad5b32108669009ca15dc3b769fb8e46be24b523865?trk=share_certificate"
   },
   {
+    "name": "Career Essentials in GitHub Professional Certificate",
+    "image": "path/to/image.jpg",
+    "link": "https://www.linkedin.com/learning/certificates/341b11651bfb46721b3ffa6fbd15203f71e56dad088e9e8b47725c226ba218b4?trk=share_certificate"
+  },
+  {
     "name": "Cucumber Essentials Training",
-    "image": "cucumber.png",
+    "image": "path/to/image.jpg",
     "link": "https://www.linkedin.com/learning/certificates/945b055189814392a584f397fce9891cbe0929c20cf969680591116b1d424318?trk=share_certificate"
   },
   {
     "name": "TypeScript Essentials Training",
-    "image": "typescript.png",
+    "image": "path/to/image.jpg",
     "link": "https://www.linkedin.com/learning/certificates/4d21518d1bc68d991382535a6108e86d79d079ec3e7f8a5adf6a06fa9492527e?trk=share_certificate"
   },
+  
   {
-    "name": "AWS Certified Cloud Practitioner",
-    "image": "path/to/image.jpg",
-    "link": "https://link-to-certification.com"
-  },
-  {
-    "name": "AWS Certified Cloud Practitioner",
-    "image": "path/to/image.jpg",
-    "link": "https://link-to-certification.com"
+    "name": "The Ultimate DevOps Bootcamp",
+    "image": "udemy_devops.png",
+    "link": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-44642e27-b666-4521-864d-402aeb4dd443.pdf"
   },
   {
     "name": "AWS Certified Cloud Practitioner",
