@@ -1,18 +1,13 @@
-name: Deploy Portfolio Website to GitHub Pages
+name: Build and Deploy Portfolio to GitHub Pages
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -28,10 +23,31 @@ jobs:
       - name: Build the React app
         run: npm run build
 
-      - name: Deploy to GitHub Pages
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: build
+          path: build/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: build
+
+      - name: Set up Git
         run: |
           git config --global user.email "portfolio@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+
+      - name: Deploy to GitHub Pages
+        run: |
           git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
           npm run deploy
         env:
