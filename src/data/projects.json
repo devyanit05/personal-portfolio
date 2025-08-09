@@ -7,17 +7,10 @@
     "link": "https://ieeexplore.ieee.org/document/10346449"
   },
   {
-    "title": "Offside Detection",
-    "description": "sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc.",
-    "technologies": "Computer Vision, Python, AI",
-    "category": "Data Science",
-    "link": "https://ieeexplore.ieee.org/document/10346449"
-  },
-  {
-    "title": "Offside Detection",
-    "description": "sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc. sjkncnksk cknks cscnkwjn sc.",
-    "technologies": "Electronics Section",
-    "category": "Electronics",
-    "link":"https://ieeexplore.ieee.org/document/10346449"
+    "title": "Deploying Portfolio Website using GitHub Actions and Kubernetes",
+    "description": "The portfolio website is designed to provide an overview of my professional experience, skills, and projects. It serves as a central hub for potential employers, collaborators, and anyone interested in my work.",
+    "technologies": "React, Docker Compose, Kubernetes, GitHub Actions, CI/CD",
+    "category": "DevOps",
+    "link": "https://github.com/devyanit05/personal-portfolio.git"
   }
 ]
