@@ -1,5 +1,12 @@
 [
   {
+    "title": "Cloud-Native CI/CD Pipeline with Kubernetes Orchestration",
+    "description": "Set up a production-ready CI/CD pipeline using Jenkins, Docker Compose, and AWS EKS, automating the deployment of 3+ microservices and eliminating manual effort by 70%. Implemented IaaC with CloudFormation. Integrated Git to streamline automated testing and rollout strategies, increasing release frequency by 2x",
+    "technologies": "AWS, Jenkins, Docker, Kubernetes, Git, CloudFormation",
+    "category": "DevOps",
+    "link": "https://ieeexplore.ieee.org/document/10346449"
+  },
+  {
     "title": "Offside Detection for Better Decision-Making and Gameplay in Football",
     "description": "Offside detection is a crucial aspect of fair play in soccer, and computer vision has the potential to automate this process. In this paper, we present an innovative technique for offside detection using computer vision techniques. We leverage the HOG algorithm for human detection and then color histograms for team classification of players. We also introduce a custom algorithm for detecting the last players in the frame and checking for possible offside conditions. We conducted experiments on a publicly available soccer dataset DFL Bundesliga Data Shootout[1] to evaluate the performance of our approach. Our results demonstrate that our method achieves high accuracy in detecting offside events in real-time. Our approach can be used for various applications, such as referee decision-making and tactical gameplay analysis. To summarize, this work emphasizes the promise of computer vision for automating offside identification in football and proposes a realistic approach to this objective.",
     "technologies": "Computer Vision, Python, AI",

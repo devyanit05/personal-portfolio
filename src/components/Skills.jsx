@@ -10,16 +10,14 @@ function Skills() {
         <div className="skills-grid">
           {[
             "AWS (EC2, S3, IAM, VPC, ECS, EKS, Lambda, etc.)",
-            "Docker",
-            "Kubernetes (EKS, CKA)",
+            "Docker | Docker Compose",
+            "Kubernetes (EKS, CKA) | Helm",
             "Terraform",
             "CloudFormation",
             "Jenkins",
             "GitLab CI/CD",
             "GitHub Actions",
-            "Python",
-            "Bash",
-            "YAML",
+            "Python | Bash | YAML",
             "Prometheus",
             "Grafana",
             "ELK Stack (Elasticsearch, Logstash, Kibana)",
@@ -43,7 +41,7 @@ function Skills() {
             "Terraform CLI",
             "Git CLI",
             "VS Code",
-            "Jira/Confluence",
+            "Jira / Confluence",
             "Postman",
           ].map((tool, index) => (
             <div key={index} className="skill-item">
@@ -59,14 +57,14 @@ function Skills() {
           {/* Map your soft skills here */}
           {[
             "Problem-Solving",
-            "Collaboration",
-            "Communication",
+            "Collaboration & Communication",
             "Automation Mindset",
             "Continuous Learning",
             "Adaptability",
             "Attention to Detail",
             "Time Management",
             "Documentation",
+            "Agile / Scrum Practices",
           ].map((skill, index) => (
             <div key={index} className="skill-item">
               {skill}

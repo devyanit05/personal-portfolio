@@ -10,9 +10,9 @@ function HeroSection() {
           DevOps Engineer | Automating Infrastructure, Accelerating Delivery
         </p>
         <p class="description">
-          Engineering-driven DevOps professional with a focus on streamlining
-          CI/CD pipelines, infrastructure as code, and cloud-native solutions.
-          Proven ability to enhance system reliability and accelerate software
+          Engineering-driven DevOps professional skilled in automation, CI/CD
+          pipelines, infrastructure as code, and cloud-native solutions. Proven
+          ability to enhance system reliability and accelerate software
           deployment. Proficient in Docker, Kubernetes, AWS DevOps, Terraform.
         </p>
         <a

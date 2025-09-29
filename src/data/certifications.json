@@ -1,5 +1,10 @@
 [
   {
+    "name": "AWS Certified Cloud Practitioner",
+    "image": "aws_png.png",
+    "link": "https://www.credly.com/badges/48f15ba4-a9de-485c-94be-5e22a2ab7ccf/public_url"
+  },
+  {
     "name": "DevOps Professional Certificate",
     "image": "devops_png.png",
     "link": "https://www.linkedin.com/learning/certificates/f85fd16a64b7ddd587e5e81fe02625caee2ac36c7063a08ea73d027462242e6e?trk=share_certificate"
@@ -29,10 +34,5 @@
     "name": "The Ultimate DevOps Bootcamp",
     "image": "udemy_png.png",
     "link": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-44642e27-b666-4521-864d-402aeb4dd443.pdf"
-  },
-  {
-    "name": "AWS Certified Cloud Practitioner",
-    "image": "aws_png.png",
-    "link": "https://link-to-certification.com"
   }
 ]

@@ -86,6 +86,9 @@ Before you begin, ensure you have the following installed:
 ## File Structure
 
 portfolio/
+├── .github
+| ├── workflows/
+| | └── deploy.yml
 ├── public/
 │ └── index.html
 ├── src/

@@ -1,25 +1,24 @@
 [
   {
-    "jobTitle": "Associate Project Software Engineer",
+    "jobTitle": "Associate Product Software Engineer",
     "companyName": "Wolters Kluwer",
     "location": "Pune, India",
-    "duration": "July 2024 - Present",
+    "duration": "July 2023 - Present",
     "techStack": "AWS, Kubernetes, Jenkins, Python, Docker Compose",
     "responsibilities": [
-      "Work with Docker Compose to manage multi-container applications, ensuring efficient development and deployment workflows.",
-      "Collaborated with development teams to optimize application deployments and improve system reliability.",
-      "Automated cloud infrastructure provisioning and scaling on AWS."
+      "Assisted in configuring and managing environments with K8s, Docker Compose, and OpenShift to facilitate smooth application deployments across development phases. ",
+      "Developed and maintained automated test-cases for microservices, using Cucumber, TypeScript, and Selenium, contributing to reliable software delivery in a fast-paced Agile environment."
     ]
   },
   {
-    "jobTitle": "Web Development Intern",
+    "jobTitle": "AWS DevOps Intern – Internship",
     "companyName": "AnsrCoach (Startup)",
-    "location": "Noida, India",
+    "location": "Remote",
     "duration": "December 2022 - April 2023",
     "techStack": "NodeJS, Express.js, MongoDB, ReactJS",
     "responsibilities": [
-      "Developed the backend of the AnsrCoach web application using Node.js, Express.js, MongoDB, ensuring robust and efficient server-side functionality.",
-      "Collaborated on frontend enhancements by refining Redux and React code to achieve seamless and user-friendly UI experiences."
+      "Built automated CI/CD pipelines and provisioned scalable AWS infrastructure using CodePipeline, GitHub Actions, AWS CDK, and Terraform, reducing deployment time to 50%.",
+      "Set up real-time monitoring with Amazon CloudWatch and explored AI automation tools to improve system reliability, while collaborating with senior developers on production-ready solutions."
     ]
   }
 ]
