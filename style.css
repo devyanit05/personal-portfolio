@@ -398,9 +398,14 @@ ol {
 .hero {
   position: relative;
   display: flex;
-  align-items: center;
-  min-height: 100vh;
-  padding: calc(var(--header-height) + 64px) 0 96px;
+  align-items: flex-start;
+  min-height: calc(100vh - var(--header-height));
+  padding: calc(var(--header-height) + 48px) 0 96px;
+}
+
+.hero .reveal {
+  opacity: 1;
+  transform: none;
 }
 
 .hero-inner {

@@ -132,6 +132,11 @@ function initActiveNav() {
   window.addEventListener("resize", updateActiveNav);
 }
 
+function revealIfInView(item) {
+  const rect = item.getBoundingClientRect();
+  return rect.top < window.innerHeight * 0.92 && rect.bottom > 0;
+}
+
 function initReveal() {
   const revealItems = document.querySelectorAll(".reveal");
 
@@ -152,12 +157,17 @@ function initReveal() {
       });
     },
     {
-      threshold: 0.12,
-      rootMargin: "0px 0px -40px 0px",
+      threshold: 0.08,
+      rootMargin: "0px 0px -8% 0px",
     }
   );
 
   revealItems.forEach((item, index) => {
+    if (revealIfInView(item)) {
+      item.classList.add("is-visible");
+      return;
+    }
+
     item.style.transitionDelay = `${Math.min(index % 4, 3) * 60}ms`;
     observer.observe(item);
   });
